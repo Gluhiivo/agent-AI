@@ -1,0 +1,1 @@
+"""Local sales RAG prototype."""

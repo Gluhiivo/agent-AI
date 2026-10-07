@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "Koliko časa traja pilot?",
+    "expected": "30 dni",
+    "expected_abstain": false
+  },
+  {
+    "id": 2,
+    "question": "How many users are included in the pilot?",
+    "expected": "5 users",
+    "expected_abstain": false
+  },
+  {
+    "id": 3,
+    "question": "Koliko stane pilot?",
+    "expected": "500 EUR brez DDV",
+    "expected_abstain": false
+  },
+  {
+    "id": 4,
+    "question": "Katera jezika podpira vmesnik?",
+    "expected": "slovenščina in angleščina",
+    "expected_abstain": false
+  },
+  {
+    "id": 5,
+    "question": "Which import format is supported?",
+    "expected": "CSV",
+    "expected_abstain": false
+  },
+  {
+    "id": 6,
+    "question": "Ali pilot vključuje integracijo s CRM?",
+    "expected": "ne",
+    "expected_abstain": false
+  },
+  {
+    "id": 7,
+    "question": "Kje ostanejo podatki?",
+    "expected": "v naročnikovem lokalnem okolju",
+    "expected_abstain": false
+  },
+  {
+    "id": 8,
+    "question": "Kdaj je na voljo podpora?",
+    "expected": "ob delavnikih od 9. do 16. ure",
+    "expected_abstain": false
+  },
+  {
+    "id": 9,
+    "question": "Which export format is available?",
+    "expected": "CSV",
+    "expected_abstain": false
+  },
+  {
+    "id": 10,
+    "question": "Kakšno usposabljanje vključuje pilot?",
+    "expected": "eno dvourno usposabljanje",
+    "expected_abstain": false
+  },
+  {
+    "id": 11,
+    "question": "Kakšno je merilo uspeha pilota?",
+    "expected": "20 odstotkov manj časa za pripravo ponudbe",
+    "expected_abstain": false
+  },
+  {
+    "id": 12,
+    "question": "Kdo je sponzor pilota?",
+    "expected": "vodja prodaje",
+    "expected_abstain": false
+  },
+  {
+    "id": 13,
+    "question": "Kdaj poteka pregled uspeha?",
+    "expected": "30. dan",
+    "expected_abstain": false
+  },
+  {
+    "id": 14,
+    "question": "Who is the fictional provider?",
+    "expected": "Atlas Demo",
+    "expected_abstain": false
+  },
+  {
+    "id": 15,
+    "question": "Ali pilot vključuje OCR?",
+    "expected": "ne",
+    "expected_abstain": false
+  },
+  {
+    "id": 16,
+    "question": "Kolikšna je cena produkcijske licence?",
+    "expected": null,
+    "expected_abstain": true
+  },
+  {
+    "id": 17,
+    "question": "Kateri konkretni banki uporabljata to rešitev?",
+    "expected": null,
+    "expected_abstain": true
+  },
+  {
+    "id": 18,
+    "question": "What is the guaranteed uptime SLA?",
+    "expected": null,
+    "expected_abstain": true
+  },
+  {
+    "id": 19,
+    "question": "Ali ponudnik zagotavlja certifikat ISO 27001?",
+    "expected": null,
+    "expected_abstain": true
+  },
+  {
+    "id": 20,
+    "question": "Katere ERP sisteme podpira integracija?",
+    "expected": null,
+    "expected_abstain": true
+  }
+]
