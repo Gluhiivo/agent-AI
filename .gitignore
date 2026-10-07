@@ -1,0 +1,13 @@
+data/
+config.toml
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+*.sqlite3*
+*.log
+.env*
+models/
+eval/results*.json

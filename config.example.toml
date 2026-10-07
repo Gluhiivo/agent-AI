@@ -1,0 +1,12 @@
+input_dir = "data/input"
+database = "data/index.sqlite3"
+endpoint = "http://127.0.0.1:11434"
+# Download and verify these models during setup; runtime never pulls models.
+embedding_model = "bge-m3:latest"
+generation_model = "qwen3:4b"
+chunk_size = 1200
+overlap = 150
+top_k = 5
+# Provisional: calibrate against eval/questions.json before production use.
+min_score = 0.55
+max_file_bytes = 10485760

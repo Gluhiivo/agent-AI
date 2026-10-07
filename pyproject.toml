@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sales-local-rag"
+version = "0.1.0"
+description = "Single-user local sales document assistant"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+pdf = ["pypdf==6.1.1"]
+
+[project.scripts]
+sales-rag = "sales_rag.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
